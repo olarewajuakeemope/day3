@@ -1,0 +1,19 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "day3 repo for bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olarewajuakeemope/day3.git"
+  },
+  "author": "Olarewaju Opeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olarewajuakeemope/day3/issues"
+  },
+  "homepage": "https://github.com/olarewajuakeemope/day3#readme"
+}
